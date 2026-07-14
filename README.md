@@ -9,15 +9,17 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 | `01_chapter_Javascript/` | Hello World and getting started with JavaScript |
 | `02_chapter_Javascript/` | Core concepts such as `let` and variable declarations |
 | `03_chapter_Identifier/` | Identifier naming rules, comments, and related exercises |
+| `04_chapter_Literal/` | JavaScript literals, null, undefined, and number types |
 | `IQ_Notes/` | Quick reference notes and reusable prompt templates |
 
 ## Chapters
 
 - **01 - Hello World** (`01_HelloWorld.js`)
 - **02 - Let Concept** (`02_let_concept.js`)
-- **03 - Identifier Rules** (`03_Identifer_Rules.js`, `04_Identifer_Rues_Part2.js`)
+- **03 - Identifier Rules** (`03_Identifer_Rules.js`, `04_Identifer_Rules_Part2.js`)
 - **04 - Comments** (`05_Comments.js`)
 - **05 - Identifier IQ** (`06_Identifer_IQ.js`)
+- **06 - Literal** (`07_Literal.js`, `08_null_undefined.js`, `09_Null_IQ.js`, `10_Literal.js`, `11_Number.js`, `12_Number_Part2.js`)
 
 ## Notes
 
