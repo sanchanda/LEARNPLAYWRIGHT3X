@@ -11,6 +11,7 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 | `03_chapter_Identifier/` | Identifier naming rules, comments, and related exercises |
 | `04_chapter_Literal/` | JavaScript literals, null, undefined, and number types |
 | `05_chapter_Operator/` | Operators: assignment, arithmetic, comparison, logical, and confusing comparisons |
+| `06_chapter_Statement/` | Statements, conditions, and multiple condition handling |
 | `IQ_Notes/` | Quick reference notes and reusable prompt templates |
 
 ## Chapters
@@ -22,7 +23,8 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 - **05 - Identifier IQ** (`06_Identifer_IQ.js`)
 - **06 - Literal** (`07_Literal.js`, `08_null_undefined.js`, `09_Null_IQ.js`, `10_Literal.js`, `11_Number.js`, `12_Number_Part2.js`)
 - **07 - Data Type** (`13_DataType.js`)
-- **08 - Operators** (`14_Assignment_Operator.js`, `15_Arithmetic_Opeartor.js`, `16_Comparsion_Operator.js`, `17_Logical_Operators.js`, `18_Confusing_Comparsion.js`, `18_Confusing_Comparsion_P2.js`, `20_Question.js`, `21_String_Op.js`, `22_Ternary_Op.js`, `23_IQ.js`, `24_IQ.js`, `25_IQ.js`, `26_IQ.js`, `27_IQ.js`, `28_Nested_Terny_Op.js`, `29_IQ_NT.js`, `30_NT_IQ2.js`, `31_Type_Op.js`)
+- **08 - Operators** (`14_Assignment_Operator.js`, `15_Arithmetic_Opeartor.js`, `16_Comparsion_Operator.js`, `17_Logical_Operators.js`, `18_Confusing_Comparsion.js`, `18_Confusing_Comparsion_P2.js`, `20_Question.js`, `21_String_Op.js`, `22_Ternary_Op.js`, `23_IQ.js`, `24_IQ.js`, `25_IQ.js`, `26_IQ.js`, `27_IQ.js`, `28_Nested_Terny_Op.js`, `29_IQ_NT.js`, `30_NT_IQ2.js`, `31_Type_Op.js`, `32_In_De_Op.js`, `33_Ad_Incre.js`, `34_Incre_Part2.js`, `35_Decrement.js`, `36_Null_Coalescing.js`)
+- **09 - Statements** (`37_IQ.js`, `38_IQ2.js`, `38_Multiple_Condition.js`)
 
 ## Notes
 
