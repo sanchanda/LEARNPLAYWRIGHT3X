@@ -14,6 +14,7 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 | `06_chapter_Statement/` | Statements, conditions, and multiple condition handling |
 | `07_chapter_switch/` | Switch-case statements and related exercises |
 | `08_UserInputs/` | User input handling with `prompt-sync` and `fs` |
+| `09_chapter_Loops/` | Loops: `for`, `while`, `do...while`, and nested loops |
 | `IQ_Notes/` | Quick reference notes and reusable prompt templates |
 
 ## Chapters
@@ -28,6 +29,7 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 - **08 - Operators** (`14_Assignment_Operator.js`, `15_Arithmetic_Opeartor.js`, `16_Comparsion_Operator.js`, `17_Logical_Operators.js`, `18_Confusing_Comparsion.js`, `18_Confusing_Comparsion_P2.js`, `20_Question.js`, `21_String_Op.js`, `22_Ternary_Op.js`, `23_IQ.js`, `24_IQ.js`, `25_IQ.js`, `26_IQ.js`, `27_IQ.js`, `28_Nested_Terny_Op.js`, `29_IQ_NT.js`, `30_NT_IQ2.js`, `31_Type_Op.js`, `32_In_De_Op.js`, `33_Ad_Incre.js`, `34_Incre_Part2.js`, `35_Decrement.js`, `36_Null_Coalescing.js`)
 - **09 - Statements** (`37_IQ.js`, `38_IQ2.js`, `38_Multiple_Condition.js`)
 - **10 - User Inputs** (`50_Prompt.js`, `51_Fs.js`)
+- **11 - Loops** (`52_No_Loop_Repeatitive_code.js`, `53_For_Loop.js`, `54_Increment.js`, `55_For_Loops.js`, `56_For_Loops2.js`, `57_While.js`, `58_While.js`, `59_Modie.js`, `60_While_Vs_For.js`, `61_Do_While.js`, `62_DoWhile_vs_While.js`, `63_NestedFor_lOOP.js`)
 
 ## Notes
 
