@@ -18,6 +18,7 @@
 
 | Method | Description | Returns | Example |
 |--------|-------------|---------|---------|
+| `at(index)` | Returns element at index (supports negative indexing) | Element or `undefined` | `arr.at(-1)` |
 | `concat(arr1, ..., arrN)` | Merges two or more arrays | New array | `arr1.concat(arr2)` |
 | `join(separator?)` | Joins all elements into a string | String | `arr.join(', ')` |
 | `slice(start?, end?)` | Extracts a shallow copy of a portion | New array | `arr.slice(1, 3)` |
@@ -26,6 +27,14 @@
 | `includes(el, fromIndex?)` | Checks if element exists | Boolean | `arr.includes(3)` |
 | `toString()` | Converts array to comma-separated string | String | `arr.toString()` |
 | `toLocaleString()` | Localized string representation | String | `arr.toLocaleString()` |
+
+## Iterator Methods (return iterators)
+
+| Method | Description | Returns | Example |
+|--------|-------------|---------|---------|
+| `keys()` | Returns iterator of **index** values | Iterator object | `[...arr.keys()]` |
+| `values()` | Returns iterator of **element** values | Iterator object | `[...arr.values()]` |
+| `entries()` | Returns iterator of **[index, element]** pairs | Iterator object | `[...arr.entries()]` |
 
 ## Iteration Methods (callback-based)
 
