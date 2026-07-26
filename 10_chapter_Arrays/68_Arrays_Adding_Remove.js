@@ -5,6 +5,8 @@ console.log(arr);
 arr.push(4);
 console.log(arr);
 
+
+
 // Remove from END
 arr.pop();
 console.log(arr);
