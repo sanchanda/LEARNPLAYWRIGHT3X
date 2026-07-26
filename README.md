@@ -15,6 +15,8 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 | `07_chapter_switch/` | Switch-case statements and related exercises |
 | `08_UserInputs/` | User input handling with `prompt-sync` and `fs` |
 | `09_chapter_Loops/` | Loops: `for`, `while`, `do...while`, and nested loops |
+| `10_chapter_Arrays/` | Arrays: creation, access, modification, iteration, searching, and IQ exercises |
+| `MCQ/` | Multiple choice questions on JavaScript/Playwright topics |
 | `IQ_Notes/` | Quick reference notes and reusable prompt templates |
 
 ## Chapters
@@ -30,6 +32,7 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 - **09 - Statements** (`37_IQ.js`, `38_IQ2.js`, `38_Multiple_Condition.js`)
 - **10 - User Inputs** (`50_Prompt.js`, `51_Fs.js`)
 - **11 - Loops** (`52_No_Loop_Repeatitive_code.js`, `53_For_Loop.js`, `54_Increment.js`, `55_For_Loops.js`, `56_For_Loops2.js`, `57_While.js`, `58_While.js`, `59_Modie.js`, `60_While_Vs_For.js`, `61_Do_While.js`, `62_DoWhile_vs_While.js`, `63_NestedFor_lOOP.js`)
+- **12 - Arrays** (`64_Array.js`, `65_Array.js`, `66_Array_Creation.js`, `67_Array_Access_Modify.js`, `68_Arrays_Adding_Remove.js`, `69_Array_REAL.js`, `70_Array_Searching.js`, `71_IQ.js`, `72_Array_Interate.js`)
 
 ## Notes
 
