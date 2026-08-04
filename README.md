@@ -16,7 +16,7 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 | `08_UserInputs/` | User input handling with `prompt-sync` and `fs` |
 | `09_chapter_Loops/` | Loops: `for`, `while`, `do...while`, and nested loops |
 | `10_chapter_Arrays/` | Arrays: creation, access, modification, iteration, searching, and IQ exercises |
-| `11_chapter_Functions/` | Functions: basic types, expressions, arrow functions, template literals, and IIFEs |
+| `11_chapter_Functions/` | Functions: basic types, expressions, arrow functions, template literals, IIFEs, spread/return, and hoisting/TDZ concepts |
 | `MCQ/` | Multiple choice questions on JavaScript/Playwright topics |
 | `IQ_Notes/` | Quick reference notes and reusable prompt templates |
 
@@ -34,12 +34,14 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 - **10 - User Inputs** (`50_Prompt.js`, `51_Fs.js`)
 - **11 - Loops** (`52_No_Loop_Repeatitive_code.js`, `53_For_Loop.js`, `54_Increment.js`, `55_For_Loops.js`, `56_For_Loops2.js`, `57_While.js`, `58_While.js`, `59_Modie.js`, `60_While_Vs_For.js`, `61_Do_While.js`, `62_DoWhile_vs_While.js`, `63_NestedFor_lOOP.js`)
 - **12 - Arrays** (`64_Array.js`, `65_Array.js`, `66_Array_Creation.js`, `67_Array_Access_Modify.js`, `68_Arrays_Adding_Remove.js`, `69_Array_REAL.js`, `70_Array_Searching.js`, `71_IQ.js`, `72_Array_Interate.js`, `73_Arrays_Transform.js`, `74_Sorting.js`, `75_Slicing.js`, `76_ArrayConcat.js`, `77_Array_Checking.js`, `78_Copy.js`, `79_Destructuring.js`, `All_Array_Methods.js`)
-- **13 - Functions** (`78_Fn.js`, `79_Fn.js`, `80_Type1_Basic_Fn.js`, `81_Type2_Basic_Fn.js`, `82_Type3_Basic_Fn.js`, `83_Type4_Basic_Fn.js`, `84_Template_Literal.js`, `85_Fn_Exp.js`, `86_Fn_Arrow.js`, `87_Fn_Arrow.js`, `88_REAL.js`, `89_IIFE_Function.js`)
+- **13 - Functions** (`78_Fn.js`, `79_Fn.js`, `80_Type1_Basic_Fn.js`, `81_Type2_Basic_Fn.js`, `82_Type3_Basic_Fn.js`, `83_Type4_Basic_Fn.js`, `84_Template_Literal.js`, `85_Fn_Exp.js`, `86_Fn_Arrow.js`, `87_Fn_Arrow.js`, `88_REAL.js`, `89_IIFE_Function.js`, `90_Spread_Fn.js`, `91_Return_Fn.js`, `92_Var_Let_Const.js`, `93.Hoisting.js`, `94_Var_Hoisting.js`, `95_Fn_Hoisting.js`, `96_Let_Hoisting.js`, `97_Let.js`, `98_TDZ.js`, `99.IQ.js`, `100_IQ.js`, `101.js`)
 
 ## Notes
 
 - `javascript-engine-layers.md` – Overview of JavaScript engine layers
+- `javascript_Array_Functions.md` – Reference table of array mutator/accessor/iteration methods
 - `prompt-layer-explainers.md` – Reusable prompt templates for explaining concepts
+- `102_Hoisting_TDZ.md` – Complete guide to hoisting (`var`, `let`, `const`, functions) and temporal dead zone
 
 ## Getting Started
 
