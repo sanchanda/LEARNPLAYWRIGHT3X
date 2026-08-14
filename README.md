@@ -21,6 +21,9 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 | `13_chapter_String/` | Strings: literals, properties, searching, extraction, conversion, and string functions |
 | `14_chapter_Objects/` | Objects: creation, properties, methods, call-by-reference vs call-by-value |
 | `15_Multi_Dimensions_Array/` | Multi-dimensional arrays: matrices, iteration, and star-pattern exercises |
+| `16_Callback/` | Callbacks: sync/async callbacks, callback hell, and pyramid of doom |
+| `17_Promise/` | Promises: API, `finally`, `Promise.all`, `Promise.race`, and settle patterns |
+| `18_Async_Await/` | Async/await: the modern way to handle asynchronous code |
 | `MCQ/` | Multiple choice questions on JavaScript/Playwright topics |
 | `IQ_Notes/` | Quick reference notes and reusable prompt templates |
 
@@ -43,6 +46,9 @@ A hands-on repository for learning **Playwright 3.x** and **JavaScript** fundame
 - **15 - Strings** (`109_String.js`, `110_String_Fn.js`, `111.Str_Searching.js`, `112_Extraction_String.js`, `113_String_More.js`, `114_Extra.js`, `115_Fn_String_Conversion.js`)
 - **16 - Objects** (`116_Objects.js`, `117_Object_Person.js`, `118_Object.js`, `119_Objects.js`, `120_Config.js`, `121_CallBy_Ref_CallByValue.js`)
 - **17 - Multi-Dimensional Arrays** (`122_Array.js`, `123_Array_2.JS`, `124_Array_Fn.js`, `125_Right_Pattern.js`, `126_Left_Hand.js`, `127_Pyramid_Pattern.js`)
+- **18 - Callbacks** (`128_Callback.js`, `129_Callback.js`, `130_Sync_Callback.js`, `131_Async_Callback.js`, `132_CallbackHell.js`, `133_Call_RealHello.js`, `134_Call_Return.js`, `135_Pyramid_DOM.js`)
+- **19 - Promises** (`136_Promise.js`, `137_REAL_Promise_API.js`, `138_REAL_Promise_API.js`, `139_Promise_Finally.js`, `140_Promise_REAL.js`, `141_Promise.All.js`, `142_Promise_Settle.js`, `143.Promise.race.js`, `144_Promise.IQ.js`, `145_IQ.js`)
+- **20 - Async/Await** (`146.js`, `147_BetterWay.js`)
 
 ## Notes
 
